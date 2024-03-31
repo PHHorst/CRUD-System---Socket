@@ -15,7 +15,7 @@ except Exception as e:
 meubd = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Pedroh12354',
+    password='*********',
     database='GAME'
 )
 
